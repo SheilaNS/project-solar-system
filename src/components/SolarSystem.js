@@ -1,11 +1,12 @@
-// Requisito 02
+// Requisito 02 e Requisito 04
 import React, { Component } from 'react';
+import Title from './Title';
 
 class SolarSystem extends Component {
   render() {
     return (
       <div data-testid="solar-system">
-        Solar System
+        <Title headline="Planetas" />
       </div>
     );
   }
