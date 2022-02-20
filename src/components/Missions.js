@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import missions from '../data/missions';
+import MissionCard from './MissionCard';
 import Title from './Title';
 
 class Missions extends Component {
@@ -12,10 +13,12 @@ class Missions extends Component {
         <div className="mission-cards">
           {missions.map((mission, index) => (
             <div className="missions-card" key={ index }>
-              <p>{mission.name}</p>
-              <p>{mission.year}</p>
-              <p>{mission.country}</p>
-              <p>{mission.destination}</p>
+              <MissionCard
+                name={ mission.name }
+                year={ mission.year }
+                country={ mission.country }
+                destination={ mission.destination }
+              />
             </div>
           ))}
         </div>
