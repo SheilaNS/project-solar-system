@@ -1,5 +1,6 @@
 {
   "name": "solar-system",
+  "homepage": "https://sheilans.github.io/project-solar-system/",
   "version": "0.1.0",
   "private": true,
   "engines": {
@@ -15,7 +16,6 @@
     "react-scripts": "5.0.0",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https:\/\/sheilans.github.io/solar-system",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
