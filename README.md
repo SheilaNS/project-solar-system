@@ -11,7 +11,7 @@ URL do projeto: https://sheilans.github.io/project-solar-system/
 ## :computer: Habilidades desenvolvidas
 
 - Utilizar JSX no React
-- Utilizar corretamente o método rende() para renderizar seus componentes
+- Utilizar corretamente o método render() para renderizar seus componentes
 - Utilizar import para trazer componentes em diferentes arquivos
 - Criar componentes de classe em React
 - Criar múltiplos componentes de classe em React
