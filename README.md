@@ -3,7 +3,7 @@
 ## :page_facing_up: Sobre
 
 Projeto do Bloco 10 - Introdução ao React do curso de Desenvolvimento Web da [Trybe](https://www.betrybe.com).<br>
-Primeira aplicação usando React, duma página para listar todos os planetas do Sistema Solar e algumas missões espaciais conhecidas.<br><br>
+Primeira aplicação usando React, uma página para listar todos os planetas do Sistema Solar e algumas missões espaciais conhecidas.<br><br>
 Quantidade de requisitos: 10<br>
 Requisitos feitos: 10<br><br>
 URL do projeto: https://sheilans.github.io/project-solar-system/
